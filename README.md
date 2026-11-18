@@ -117,33 +117,36 @@ Interactive Slicers
 - Payment Method
 
 Dashboard Preview
-![Customer Shopping Behavior Dashboard](Dashboard.jpg)
 
-6. Business Recommendations
+"Customer Shopping Behavior Dashboard" (https://raw.githubusercontent.com/tasneem-mukhtar/customer-Shopping-Behavior-Analysis/refs/heads/main/Dashboard.jpg)
+
+6. Key Business Insights
+
+The analysis explores several important areas of customer shopping behavior:
+
+1. Customer Spending Patterns: Examines purchasing amounts and revenue contributions across customer groups.
+2. Subscription Behavior: Compares subscribers and non-subscribers in terms of customer counts, average spending, and revenue.
+3. Product Performance: Identifies highly rated products and the most purchased products within different categories.
+4. Discount Usage: Examines the relationship between discount usage and customer spending.
+5. Customer Loyalty: Segments customers into New, Returning, and Loyal groups based on previous purchases.
+6. Demographic Trends: Explores revenue contributions across gender and age groups.
+7. Shipping Preferences: Compares average purchase amounts across shipping methods.
+
+7. Business Recommendations
 
 Based on the analytical questions and business objectives, the project proposes the following strategies:
 
-1. Grow Subscriptions
+1. Grow Subscriptions: Test clear membership benefits, such as exclusive offers and early access. Monitor subscription rates, repeat purchases, and revenue per customer.
 
-Test clear membership benefits, such as exclusive offers and early access. Monitor subscription rates, repeat purchases, and revenue per customer.
+2. Strengthen Customer Loyalty: Use New, Returning, and Loyal customer segments to develop targeted follow-ups and rewards. Monitor repeat-purchase rates and the time between purchases.
 
-2. Strengthen Customer Loyalty
+3. Optimize Discount Strategy: Identify products frequently purchased with discounts and compare sales and profitability to avoid unnecessary markdowns.
 
-Use New, Returning, and Loyal customer segments to develop targeted follow-ups and rewards. Monitor repeat-purchase rates and the time between purchases.
+4. Improve Product Positioning: Promote products that combine strong sales performance with high customer ratings. Investigate lower-rated products before increasing promotional activity.
 
-3. Optimize Discount Strategy
+5. Refine Targeted Marketing: Use age-group, category, and gender insights to design targeted marketing campaigns. Compare conversion rates, average order value, and profitability before reallocating marketing budgets.
 
-Identify products frequently purchased with discounts and compare sales and profitability to avoid unnecessary markdowns.
-
-4. Improve Product Positioning
-
-Promote products that combine strong sales performance with high customer ratings. Investigate lower-rated products before increasing promotional activity.
-
-5. Refine Targeted Marketing
-
-Use age-group, category, and gender insights to design targeted marketing campaigns. Compare conversion rates, average order value, and profitability before reallocating marketing budgets.
-
-7. Project Deliverables
+8. Project Deliverables
 
 The project includes:
 
@@ -153,7 +156,7 @@ The project includes:
 4. Business Insights and Recommendations.
 5. Project Documentation and GitHub Repository.
 
-8. Skills Demonstrated
+9. Skills Demonstrated
 
 - Data cleaning and preparation
 - Exploratory data analysis
@@ -166,8 +169,16 @@ The project includes:
 - Business problem-solving
 - Analytical thinking
 
-9. Conclusion
+10. Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, transforming raw customer shopping data into an organized dataset, analyzing purchasing behavior through SQL, and presenting key business metrics through an interactive Power BI dashboard.
 
 The analysis and recommendations provide a foundation for understanding customer behavior and exploring opportunities to improve customer engagement, loyalty, marketing effectiveness, and sales performance.
+
+11. Acknowledgement
+
+This project was developed with reference to the work and learning resources of C_Wexllent.
+
+YouTube Channel: "C_Wexllent" (https://youtube.com/@c_wexllent?si=5zVShdkwNx1YWJAG)
+
+Credit is given to the original creator for the project guidance and reference materials.
