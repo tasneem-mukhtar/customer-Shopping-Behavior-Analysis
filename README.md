@@ -118,7 +118,7 @@ Interactive Slicers
 
 Dashboard Preview
 
-"Customer Shopping Behavior Dashboard" (images/Dashboard.jpg)
+"Customer Shopping Behavior Dashboard" (Dashboard.jpg)
 
 6. Business Recommendations
 
