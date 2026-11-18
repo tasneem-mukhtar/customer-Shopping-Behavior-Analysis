@@ -118,7 +118,7 @@ Interactive Slicers
 
 Dashboard Preview
 
-"Customer Shopping Behavior Dashboard" (https://raw.githubusercontent.com/tasneem-mukhtar/customer-Shopping-Behavior-Analysis/refs/heads/main/Dashboard.jpg)
+![Customer Shopping Behavior Dashboard](https://raw.githubusercontent.com/tasneem-mukhtar/customer-Shopping-Behavior-Analysis/refs/heads/main/Dashboard.jpg)
 
 6. Key Business Insights
 
