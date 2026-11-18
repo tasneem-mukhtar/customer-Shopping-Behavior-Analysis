@@ -117,8 +117,7 @@ Interactive Slicers
 - Payment Method
 
 Dashboard Preview
-
-"Customer Shopping Behavior Dashboard" (Dashboard.jpg)
+![Customer Shopping Behavior Dashboard](Dashboard.jpg)
 
 6. Business Recommendations
 
